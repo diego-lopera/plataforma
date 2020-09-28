@@ -1,0 +1,162 @@
+
+/*modificacion index 1*/
+
+.Body1{
+    /*background: rgb(207, 206, 206);*/
+    background: url(../Resources/colegio1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+}
+
+.headerindex{
+    font-size: 30px;  position: relative; top: -55px;
+    width: 450px;    margin-bottom: 20px; text-align: center;
+    background-color: rgb(214, 214, 214); display: inline-block;
+}
+
+.esc{
+    display: inline-block;
+     border-radius: 5px;
+}
+
+.MenuIndex1{
+    list-style: none;   
+    padding: 0;
+    background: rgb(107, 4, 4);
+    width: 50%;
+    max-width: 450px;  border-radius: 5px;
+    margin: auto;  border: blanchedalmond 1px solid;
+    /*margin-top: -40px;*/    border-radius: 5px; font-family: Arial, Helvetica, sans-serif; margin-bottom: 20px;
+}
+
+.MenuIndex1 li a{
+    text-decoration: none;
+    color: black;
+    display: block;}
+.MenuIndex1 li{
+    display: inline-block;
+    text-align: center;
+    margin-left: 10px; margin-right: 10x; 
+}   
+.MenuIndex1 li a:hover{ background: rgb(214, 214, 214); padding: 10px;} 
+
+.banner{
+    border: black solid 2px;  border-radius: 5px;
+    position: absolute;
+    left: 200px;
+    margin-top: 5px;
+}
+
+.lema{
+    background-color: rgb(255, 174, 0); width: 840px; position: relative; top: 210px; left: 190px;
+    padding: 10px; font-size: 20px; text-align: center; border-radius: 5px;
+    
+}
+
+.a1{
+    border: black solid 1px; width: 15%; background-color: rgb(255, 174, 0); display: inline-block;
+    text-align: center; font-family: Arial, Helvetica, sans-serif; height: 150px; margin-right: 860px;
+    padding-top: 100px; border-radius: 5px; position: relative; top: -75px;
+}
+
+.a2{
+    border: black  solid 1px; width: 15%; background-color: rgb(255, 174, 0); display: inline-block;
+    text-align: center; font-family: Arial, Helvetica, sans-serif; height: 150px;
+    padding-top: 100px; border-radius: 5px; position: relative; top: -75px;
+} 
+
+.ulp1{   position: relative; bottom: 80px; left: 370px; border-radius: 5px;
+    background-color:  rgb(214, 214, 214); width: 480px; border: black solid 1px ; text-align: center; 
+    list-style: none; color: black; font-family: Arial, Helvetica, sans-serif; padding-right: 20px; 
+} .correo{text-decoration: none; color: black;} 
+
+/*modificacion index 2*/
+
+.Body2{
+    /*background: rgb(207, 206, 206);*/
+    background: url(../Resources/colegio1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+}
+
+.headerindex2{
+    font-size: 30px;  position: relative; top: -55px;
+    width: 450px;    margin-bottom: 20px; text-align: center;
+    background-color: rgb(214, 214, 214); display: inline-block;
+}
+
+.esc2{
+    display: inline-block;
+     border-radius: 5px;
+}
+
+.login{
+
+    background-color:  rgb(107, 4, 4); width: 500px; max-width: 100%;
+     margin: auto; margin-top: 30px;
+     box-sizing: border-box;   padding: 20px;
+     position: relative;
+}
+
+
+
+.asidei2{ position: relative; left: 905px; top: -216px;
+    background-color: rgb(255, 174, 0);  width: 300px;
+    list-style: none; padding: 15px;
+}
+.asidei2 li a{
+    text-decoration: beige; 
+    color: blanchedalmond;   background-color:  rgb(107, 4, 4);
+    display: block;  padding: 15px; margin: 5px; text-align: center; 
+}
+
+
+.ulp2{   position: relative;  left: 370px; border-radius: 5px; top: -130px;
+    background-color:  rgb(214, 214, 214); width: 480px; border: black solid 1px ; text-align: center; 
+    list-style: none; color: black; font-family: Arial, Helvetica, sans-serif; padding-right: 20px; 
+} .correo2{text-decoration: none; color: black;}  .exit{text-decoration: none; color: blue;}
+
+
+/*modificacion index 3*/
+
+.Body3{
+    /*background: rgb(207, 206, 206);*/
+    background: url(../Resources/colegio1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+}
+
+.headerindex3{
+    font-size: 30px;  position: relative; top: -55px;
+    width: 450px;    margin-bottom: 20px; text-align: center;
+    background-color: rgb(214, 214, 214); display: inline-block;
+}
+
+.esc3{
+    display: inline-block;
+     border-radius: 5px;
+}
+
+/*modificacion index 4*/
+
+.Body4{
+    /*background: rgb(207, 206, 206);*/
+    background: url(../Resources/colegio1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+}
+
+.headerindex4{
+    font-size: 30px;  position: relative; top: -55px;
+    width: 450px;    margin-bottom: 20px; text-align: center;
+    background-color: rgb(214, 214, 214); display: inline-block;
+}
+
+.esc4{
+    display: inline-block;
+     border-radius: 5px;
+}
